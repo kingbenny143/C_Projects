@@ -92,10 +92,10 @@ Run the program:
 - [x] Tic-Tac-Toe
 - [x] Library Management System
 - [x] Snake Game
-- [] Linked Lists
-- [] Stacks
-- [] Queues
-- [] Trees
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+- [ ] Trees
 - [ ] Graphs
 
 ## 👨‍💻 Author
