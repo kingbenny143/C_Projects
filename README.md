@@ -87,15 +87,15 @@ Run the program:
 
 - [x] Calculator
 - [x] Number Guessing Game
-- [ ] Student Management System
-- [ ] Contact Book
-- [ ] Tic-Tac-Toe
-- [ ] Library Management System
-- [ ] Snake Game
-- [ ] Linked Lists
-- [ ] Stacks
-- [ ] Queues
-- [ ] Trees
+- [x] Student Management System
+- [x] Contact Book
+- [x] Tic-Tac-Toe
+- [x] Library Management System
+- [x] Snake Game
+- [] Linked Lists
+- [] Stacks
+- [] Queues
+- [] Trees
 - [ ] Graphs
 
 ## 👨‍💻 Author
