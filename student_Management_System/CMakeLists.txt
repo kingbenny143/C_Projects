@@ -3,4 +3,5 @@ project(student_Management_System C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(student_Management_System main.c)
+add_executable(student_Management_System main.c
+        student.c)

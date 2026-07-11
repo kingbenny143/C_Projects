@@ -1,0 +1,23 @@
+# Build artifacts
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE / editor files
+.idea/
+.vs/
+.vscode/
+*.code-workspace
+
+# Test / temp outputs
+Testing/
+*.tmp
+*.log

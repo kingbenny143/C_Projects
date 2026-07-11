@@ -90,8 +90,10 @@ Run the program:
 - [x] Student Management System
 - [x] Contact Book
 - [x] Tic-Tac-Toe
+- [x] Banking Management System
 - [x] Library Management System
 - [x] Snake Game
+- [x] Employee Payroll Management System
 - [ ] Linked Lists
 - [ ] Stacks
 - [ ] Queues
