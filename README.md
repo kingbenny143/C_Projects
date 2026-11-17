@@ -92,13 +92,19 @@ Run the program:
 - [x] Tic-Tac-Toe
 - [x] Banking Management System
 - [x] Library Management System
-- [x] Snake Game
 - [x] Employee Payroll Management System
-- [ ] Linked Lists
-- [ ] Stacks
-- [ ] Queues
-- [ ] Trees
-- [ ] Graphs
+- [ ] Inventory Management System
+- [ ] Hotel Management System
+- [ ] Hospital Management System
+- [ ] Bus Reservation System
+- [ ] Railway Reservation System
+- [ ] ATM Simulation
+- [ ] E-Commerce Management System
+- [ ] Airline Reservation System
+- [ ] Restaurant Management System
+- [ ] Text Editor
+- [ ] File Compression Utility
+- [ ] Mini Database Engine
 
 ## 👨‍💻 Author
 
