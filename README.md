@@ -98,7 +98,7 @@ Run the program:
 - [ ] Hospital Management System
 - [ ] Bus Reservation System
 - [ ] Railway Reservation System
-- [ ] ATM Simulation
+- [x] ATM Simulation
 - [ ] E-Commerce Management System
 - [ ] Airline Reservation System
 - [ ] Restaurant Management System
