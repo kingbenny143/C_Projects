@@ -93,18 +93,13 @@ Run the program:
 - [x] Banking Management System
 - [x] Library Management System
 - [x] Employee Payroll Management System
-- [ ] Inventory Management System
-- [ ] Hotel Management System
-- [ ] Hospital Management System
-- [ ] Bus Reservation System
-- [ ] Railway Reservation System
+- [x] Inventory Management System
 - [x] ATM Simulation
-- [ ] E-Commerce Management System
-- [ ] Airline Reservation System
-- [ ] Restaurant Management System
-- [ ] Text Editor
 - [ ] File Compression Utility
-- [ ] Mini Database Engine
+- [ ] Expression Evaluator
+- [ ] File-Based Database System
+- [ ] Mini Command-Line Shell
+- [ ] TCP/IP Client-Server Chat Application
 
 ## 👨‍💻 Author
 
